@@ -77,6 +77,12 @@ It includes 4 tables:
 
 ---
 
+## 🏅 Recognition
+
+- 🧠 Received the **Storyteller Badge** for excellence in presenting insights and crafting a compelling data narrative in this Power BI project.
+
+---
+
 ## 🤝 Acknowledgements
 
 - [DataDNA Challenge](https://www.enterprisedna.co/datadna-showcase/) – for providing the dataset and inspiration
