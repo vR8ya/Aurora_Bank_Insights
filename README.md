@@ -2,8 +2,6 @@
 **Customer Segmentation & Transaction Risk Dashboard**  
 *A Power BI Case Study | DataDNA Monthly Challenge – Dec 2024*
 
-![Aurora Bank Dashboard](./Aurora_Report_Dashboard.png)
-
 ---
 
 ## 🧠 Project Overview
@@ -67,13 +65,11 @@ It includes 4 tables:
 
 ---
 
-## 📁 File Structure
+## 📷 Dashboard Preview
 
-| File | Description |
-|------|-------------|
-| `Aurora_Bank_onyx.pbix` | Main Power BI file |
-| `Aurora_Report_Dashboard.png` | Static dashboard preview |
-| `README.md` | Project documentation |
+![Aurora Bank Dashboard](./Aurora_Report_Dashboard.png)
+
+
 
 ---
 
